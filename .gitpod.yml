@@ -1,0 +1,5 @@
+ports:
+- port: 8080
+tasks:
+- command: >
+    python server.py
